@@ -24,6 +24,8 @@ pip install pytest
 pytest
 ```
 
+（＾∀＾●）ﾉｼ
+
 ## Автор
 
 Kodland
